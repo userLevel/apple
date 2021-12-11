@@ -1,0 +1,1 @@
+program HiMike(output);beginwriteln('Hello, Mike.');end.

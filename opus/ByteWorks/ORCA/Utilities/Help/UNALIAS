@@ -1,0 +1,1 @@
+UNALIAS nameDeletes a command alias.  More than one alias name can be given with the samecommand.Parameters:     name       Name of the alias to delete.

@@ -1,0 +1,1 @@
+      REM Write the numbers 1 to 10 to a file on ten separate lines.      ! Open the file.      OPEN "temp" FOR OUTPUT AS #1      ! Write the numbers.      FOR I% = 1 TO 10        PRINT #1, I%      NEXT      ! Close the file.      CLOSE #1

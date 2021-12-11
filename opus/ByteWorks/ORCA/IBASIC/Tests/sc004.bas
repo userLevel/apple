@@ -1,0 +1,1 @@
+100 rem110 rem  Test the pdl function120 rem130 print "Move mouse; click to stop"140 rem See if mouse moved150 moved = 0160 mouse = pdl(3)/8192170 if (mouse/2*2) # mouse then moved = 1180 if moved then print pdl(0),pdl(1)190 if not pdl(2) then 150200 print "Mouse status = "; pdl(3)

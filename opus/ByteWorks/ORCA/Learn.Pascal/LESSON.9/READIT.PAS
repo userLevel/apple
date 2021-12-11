@@ -1,0 +1,1 @@
+{ Read the alphabet file. }program ReadIt(output);var   f: file of char;   i: integer;beginreset(f, 'Alphabet');while not eof(f) do begin   write(f^);   get(f);   end; {while}writeln;end.

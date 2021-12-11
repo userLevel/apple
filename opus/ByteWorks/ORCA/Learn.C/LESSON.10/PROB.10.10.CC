@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){printf("Huh\?\?\?\n");printf("C uses \\n for the end of a line.\n");printf("I said, \"Quote me!\"\n");}

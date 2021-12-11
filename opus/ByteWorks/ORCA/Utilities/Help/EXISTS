@@ -1,0 +1,1 @@
+EXISTS fileIf the file exists, the {Status} variable is set to 1; if the file does notexist, the {Status} variable is set to 0.Parameters:     file       Name of the file to check.

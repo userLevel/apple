@@ -1,0 +1,1 @@
+      REM Write the numbers 11 to 20 to the file FILE2.      ! Open the file.      OPEN "FILE2" FOR OUTPUT AS #1      ! Write the numbers.      FOR I% = 1 TO 10        PRINT #1, I% + 10      NEXT      ! Close the file.      CLOSE #1

@@ -1,0 +1,1 @@
+ MACRO&lab _FWEntry&lab ldx #$2403 jsl $E10000 MEND

@@ -1,0 +1,1 @@
+       <C> Compress TextASCII text files can be compressedso that they occupy about 45% lessspace.  This command works the same waythat encryption works; see that commandfor instructions on selecting files.There are some restrictions on thetype of files that can be compressed.See the User's Manual beforecompressing anything other than a TXTfile..

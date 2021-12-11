@@ -1,0 +1,1 @@
+RENAME file1 file2The name of file1 is changed to file2.Parameters:     file1      Name of the file to change.     file2      New name for the file.

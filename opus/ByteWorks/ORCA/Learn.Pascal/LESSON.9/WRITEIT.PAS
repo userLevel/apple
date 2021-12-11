@@ -1,0 +1,1 @@
+{ Write some numbers to a file. }program WriteIt;var   f: file of integer;   i: integer;beginrewrite(f);for i := 1 to 10 do begin   f^ := i;   put(f);   end; {for}end.

@@ -1,0 +1,1 @@
+0 INPUT"Title? ";T$:D$=CHR$(4):I$=CHR$(9):PRINT D$"PR#1":PRINT I$"80N"I$"CE"CHR$ (27)"Z"CHR$(0)D$:PRINT T$:PRINT:LIST 1,:PRINT CHR$(12):PRINT D$"PR#0":END:REM"80 col wrap around; skip page break; formfeed

@@ -1,0 +1,1 @@
+program WaitForKey;uses Common, EventMgr;var   done: boolean;                       {are we done, yet?}   myEvent: eventRecord;                {event record}beginStartDesk(640);done := false;repeat   if GetNextEvent(everyEvent, myEvent) then      if myEvent.eventWhat = keyDownEvt then         done := true;until done;EndDesk;end.

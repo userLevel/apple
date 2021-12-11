@@ -1,0 +1,1 @@
+int a[2];void main(void){int i;for (i = 0; i < 2; ++i)   a[i] = 0;}

@@ -1,0 +1,1 @@
+      REM Try out a long integer      DIM I AS LONG      I = 500      I = I * I      PRINT I

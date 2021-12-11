@@ -1,0 +1,1 @@
+100 rem110 rem  Test the rnd function120 rem130 print "Pseudo-random numbers from 0 to 99: "140 for i = 1 to 500150    print rnd(100); " ";160 next i

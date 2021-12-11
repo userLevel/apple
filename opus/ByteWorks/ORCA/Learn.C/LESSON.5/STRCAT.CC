@@ -1,0 +1,1 @@
+#include <stdio.h>#include <string.h>void main(void){char string[20];strcpy(string, "Hello, ");strcat(string, "world");strncat(string, ".\n", 20);printf(string);}

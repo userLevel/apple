@@ -1,0 +1,1 @@
+CONTINUEThis command is not valid unless a LOOP or FOR is currently in progress.  Itseffect is to branch to the closing END of the currently executing loop.

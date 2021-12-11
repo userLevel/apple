@@ -1,0 +1,1 @@
+#include <stdio.h>void main (void){int a[5], *ip, i;for (i = 0; i < 5; ++i)   a[i] = i+1;ip = a;i = 0;for (i = 0; i < 5; ++i) {   printf("%d\n", *ip);   ++ip;   }}

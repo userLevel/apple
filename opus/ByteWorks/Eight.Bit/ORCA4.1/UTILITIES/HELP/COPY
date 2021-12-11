@@ -1,0 +1,1 @@
+COPY file1 <file2>File1 is copied from its current location to the directory specified by file2.Note that file2 is a directory, not a file name.  If file2 is not specified,the current prefix is used.Parameters:     file1      File to copy.     file2      Directory to copy to.

@@ -1,0 +1,1 @@
+      INPUT "First coordinate (enter x, y): ";X1, Y1      INPUT "Second coordinate (enter x, y): ";X2, Y2      HGR      MOVETO (X1, Y1)      LINETO (X2, Y2)      INPUT "";A$

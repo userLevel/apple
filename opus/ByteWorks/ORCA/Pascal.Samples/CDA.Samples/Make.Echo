@@ -1,0 +1,1 @@
+set echo oncmpl +t +m +e echo.pasfiletype echo cda

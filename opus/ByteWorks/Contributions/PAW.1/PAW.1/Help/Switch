@@ -1,0 +1,1 @@
+SWITCH [-P] file1 file2Changes the order of the two files in the directory.Parameters:     -P         Suppress file names when wildcards are used.     file1      Name of the first file to switch.     file2      Name of the second file to switch.

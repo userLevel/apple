@@ -1,0 +1,1 @@
+#include <stdio.h>void main (void){unsigned i;for (i = 1; i <= 5; ++i) {   switch (i) {      case 1: printf("*");              break;      case 2: printf("**");              break;      case 3: printf("***");              break;      case 4: printf("****");              break;      case 5: printf("*****");      }   printf("\n");   }}

@@ -1,0 +1,1 @@
+/* write a table of squares */#include <stdio.h>int i;                          /* loop variable */int s;                          /* square of i */void main(void){for (i = 1; i <= 5; ++i) {   s = i*i;   printf("%10d%10d\n", i, s);   }}

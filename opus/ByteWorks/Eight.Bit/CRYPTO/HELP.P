@@ -1,0 +1,1 @@
+       <P> Set ProDOS ParametersThis command lets you change thepath name which is listed at the topof the screen.  You will be promptedfor a new path name after hitting theP key.  The path name shown at the topof the screen determines the directoryaccessed by the first four commands..

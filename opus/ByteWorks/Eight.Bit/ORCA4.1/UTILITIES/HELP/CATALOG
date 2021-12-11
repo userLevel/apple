@@ -1,0 +1,1 @@
+CATALOG [file]The named directory is cataloged.Parameters:     file       The name of the directory to catalog.  If ommited, the                current directory is cataloged.

@@ -1,0 +1,1 @@
+/* Read two integers, then write the exclusive or of    *//* the integers.                                        */#include <stdio.h>void main(void){int a,b;printf("First value: ");scanf("%i", &a);printf("Second value: ");scanf("%i", &b);printf("0x%04X ^ 0x%04X = 0x%04X\n", a, b, a^b);}

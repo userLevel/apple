@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){goto there;printf("This gets skipped.\n");there:  printf("This gets printed.\n");}

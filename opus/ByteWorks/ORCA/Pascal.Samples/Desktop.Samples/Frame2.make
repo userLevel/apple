@@ -1,0 +1,1 @@
+cmpl +m frame2.pascompile frame2.rez keep=Frame2frame2

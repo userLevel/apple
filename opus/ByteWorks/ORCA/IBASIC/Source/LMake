@@ -1,0 +1,1 @@
+**  Create the libraries*if {#} == 0   assemble +t +e basiclib.asmelse   assemble +t +e basiclib.asm names=({Parameters})   crunch obj/basiclibenddelete obj/basiclibmakelib obj/basiclib +obj/basiclib.acopy -c obj/basiclib 2

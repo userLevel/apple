@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){unsigned row, col;unsigned ch;ch = 32;for (row = 0; row <= 5; ++row) {   for (col = 0; col <= 15; ++col) {      if (ch != 127)         printf("%c", ch);      ++ch;      }   printf("\n");   }}

@@ -1,0 +1,1 @@
+FOR name [IN word]Word is a series of blank separated strings.  The loop is executed once foreach word.  Name is set to the string that is active for the current loop.  Ifthe IN parameter is omitted, the parameter list is used.  The loop terminateswith an END command.Parameters:     name       Loop variable.     word       String(s) to loop over.

@@ -1,0 +1,1 @@
+MPW IIGS ORCA/C 1.0.1Release NotesCopyright 1994, 1995, Byte Works, Inc.All Rights ReservedChanges since the 1.0 release:1.   Fixed a bug in the native code peephole optimizer that almost always caused a crash when this optimization was used.(Thanks to Sheppy for providing an example that would reliably cause the crash.)

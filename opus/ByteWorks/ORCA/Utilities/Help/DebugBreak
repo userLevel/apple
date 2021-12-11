@@ -1,0 +1,1 @@
+DebugBreakThis utility sends a message to the debugger, telling it to break as soon asa program with debug code is executed.

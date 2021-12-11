@@ -1,0 +1,1 @@
+BEEPThis command sends a beep to the speaker (which may be redirected to theprinter).  This is occasionally useful in an EXEC file to let you know whenit has finished.

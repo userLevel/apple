@@ -1,0 +1,1 @@
+#include <stdio.h>#include <stdlib.h>void main (void){int *ip, *jp, *kp;ip = (int *) malloc (sizeof(int));jp = (int *) malloc (sizeof(int));kp = (int *) malloc (sizeof(int));*ip = 4;*jp = 6;*kp = *ip + *jp;printf("%d\n", *kp);free(ip);free(jp);free(kp);}

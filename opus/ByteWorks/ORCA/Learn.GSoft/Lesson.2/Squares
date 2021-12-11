@@ -1,0 +1,1 @@
+      REM This program prints a table of numbers and squares of the numbers      I% = 1      S% = I% * I%      PRINT I%, S%      I% = I% + 1      S% = I% * I%      PRINT I%, S%      I% = I% + 1      S% = I% * I%      PRINT I%, S%      I% = I% + 1      S% = I% * I%      PRINT I%, S%      I% = I% + 1      S% = I% * I%      PRINT I%, S%

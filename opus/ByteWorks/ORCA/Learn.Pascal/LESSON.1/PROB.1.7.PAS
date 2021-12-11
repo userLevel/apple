@@ -1,0 +1,1 @@
+program Star;uses Common, QuickDrawII;beginSetPenMode(0);SetSolidPenPat(0);SetPenSize(3,1);MoveTo(110,50);LineTo(190,50);LineTo(150,24);LineTo(110,50);MoveTo(110,33);LineTo(190,33);LineTo(150,59);LineTo(110,33);end.

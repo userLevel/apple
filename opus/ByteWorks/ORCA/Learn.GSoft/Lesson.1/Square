@@ -1,0 +1,1 @@
+      HGR      SETPENMODE (0)      SETSOLIDPENPAT (15)      MOVETO (10, 10)      LINETO (45, 10)      LINETO (45, 40)      LINETO (10, 40)      LINETO (10, 10)      INPUT "";A$

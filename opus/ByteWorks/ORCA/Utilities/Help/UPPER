@@ -1,0 +1,1 @@
+UPPER [-V] [file...]Convert all lowercase characters to uppercase.Parameters:     -V         Prints the copyright notice and version number.     file       If coded, input comes from this file.  If missing, input comes                from standard in.  If more than one file name is supplied, they                are concatonated and traeted as a single input file.

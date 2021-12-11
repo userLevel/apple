@@ -1,0 +1,1 @@
+DebugNoFastThis utility reverses the effect of DebugFast.  Once any programs with debugcode are reloaded, you will be able to use the debugger to debug them.See also DebugFast.

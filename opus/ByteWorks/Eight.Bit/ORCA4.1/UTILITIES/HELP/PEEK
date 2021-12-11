@@ -1,0 +1,1 @@
+PEEK <name>PEEK is a disk block editor.  If name is dpecified, that disk is edited.See the user's manual for a complete description of the commands.Parameters:     name       Name of the volume to PEEK.

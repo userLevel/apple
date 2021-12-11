@@ -1,0 +1,1 @@
+{$rangecheck+}{$names+}program goof;var   color: 0..3;begincolor := 2;color := color*4 mod 4;color := color+6;end.

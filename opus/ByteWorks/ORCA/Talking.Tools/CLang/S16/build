@@ -1,0 +1,1 @@
+compile +t +e -m Error.cccompile +t +e -m Globals.cccompile +t +e -m MscCmds.cccompile +t +e -m DictCmds.cccompile +t +e -m FileCmds.cccompile +t +e -m SpeechCmds.cccompile +t +e -m Main.cclink main globals error msccmds dictcmds filecmds speechcmds keep=SpeakItfiletype SpeakIt S16

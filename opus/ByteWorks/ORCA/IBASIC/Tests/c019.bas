@@ -1,0 +1,1 @@
+100 rem110 rem Test integer arrays120 rem130 dim a(10)140 for i = 0 to 10150   a(i) = i160 next i170 sum = 0180 for i = 0 to 10190   sum = sum+a(i)200 next i210 if sum = 55 then print "Passed C019"220 if sum # 55 then print "Failed C019"

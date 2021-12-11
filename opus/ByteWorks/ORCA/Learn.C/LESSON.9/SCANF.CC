@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){char string[81];printf("String:");scanf("%[^\n]%*1[\n]", string);printf("%s\n", string);}

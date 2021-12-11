@@ -1,0 +1,1 @@
+      INPUT "Please type your name: ";NAME$      PRINT "Hello, ";NAME$

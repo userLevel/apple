@@ -1,0 +1,1 @@
+#include <stdio.h>#include <stdlib.h>void main (void){float *fp;fp = (float *) malloc (sizeof(float));*fp = 1.2;printf("%f\n", *fp);free(fp);}

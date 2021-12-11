@@ -1,0 +1,1 @@
+CHANGE [-P] file languageChanges the file's language stamp to the named language.Parameters:     -P         Suppress progress information.     file       The name of the file to change.     language   Language to change the file to.

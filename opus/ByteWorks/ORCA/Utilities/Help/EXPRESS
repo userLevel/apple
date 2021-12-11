@@ -1,0 +1,1 @@
+EXPRESS [-P]  sourcename  -O outnameThe Express utility converts a version 2.0 OMF load file into an ExpressLoad file.Parameters:     -P         Print progress information.     sourcename The full or partial path of the load file to be converted.     -O outname The full or partial path of the file to create.  Any existing                file is destroyed.

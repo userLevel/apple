@@ -1,0 +1,1 @@
+program Pointers(output);var   rp: ^real;beginnew(rp);rp^ := 1.2;writeln(rp^);dispose(rp);end.

@@ -1,0 +1,1 @@
+{ A closer look at pseudo-random numbers }program random(input,output);var   i: integer;                          {loop variable}   seedValue: integer;                  {random number seed}beginwrite('Random number seed = ');readln(seedValue);seed(seedValue);for i := 1 to 10 do   writeln(RandomInteger);end.

@@ -1,0 +1,1 @@
+ELSE [IF expression]This command is only valid after an IF or an ELSE IF.  It provides the ELSEpart of the IF-ELSE-END construct.Parameters:     IF         Signals that the ELSE clause is also conditional.     expression Expression to evaluate to determine if the lines that follow                are to be executed.

@@ -1,0 +1,1 @@
+/* create a binary file */#include <stdio.h>void main(void){float x;FILE *f;f = fopen("myfile", "wb");for (x = 1.0; x <= 10.0; ++x)   fwrite(&x, sizeof(x), 1, f);fclose(f);}

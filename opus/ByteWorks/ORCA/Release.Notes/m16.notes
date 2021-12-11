@@ -1,0 +1,1 @@
+m16.ToolsCopyright 1995, Byte Works Inc.-- Change List --------------------------------------------------------------Jul 95      1.	Corrected bugs in ~GetCtlParamPtr, ~FindDItem, ~GetControlDItem,               ~SendRequest, ~SetContentOrigin2.               (Ian Brumby)-- Documentation Update -----------------------------------------------------No changes.

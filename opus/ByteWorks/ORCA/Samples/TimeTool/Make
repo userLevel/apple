@@ -1,0 +1,1 @@
+Set name UserTool002assemble +t +e TimeTool.asmlink TimeTool keep={name}filetype {name} $BAcopy -c {name} */System/Tools

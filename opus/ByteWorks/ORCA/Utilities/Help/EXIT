@@ -1,0 +1,1 @@
+EXIT [number]Exits the exec file in progress.  If coded, number is the error code returnedto the next higher EXEC file.  If omitted, a zero is returned.Parameters:     number     Error number.

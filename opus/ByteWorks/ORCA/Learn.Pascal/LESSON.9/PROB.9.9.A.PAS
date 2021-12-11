@@ -1,0 +1,1 @@
+{ Create the file to update }program Create;var   f: file of integer;beginrewrite(f, 'NUMBERS');write(f, 1);write(f, 2);write(f, 3);write(f, 3);write(f, 5);end.

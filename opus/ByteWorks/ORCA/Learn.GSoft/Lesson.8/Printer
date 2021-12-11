@@ -1,0 +1,1 @@
+      OPEN ".PRINTER" FOR OUTPUT AS #1      PRINT #1, "Hello, printer."      PRINT #1, CHR$ (10);      CLOSE #1

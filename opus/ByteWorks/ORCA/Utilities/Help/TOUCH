@@ -1,0 +1,1 @@
+TOUCH [-P] file"Touches" the file, changing the modification date and time to the currentdate and time.Parameters:     -P         Suppress progress information.     file       Name of the file to touch.

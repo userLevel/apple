@@ -1,0 +1,1 @@
+#include <stdio.h>#include <string.h>void main(void){char string[10];strcpy(string, "\n");printf("The \\n character is %d.\n", string[0]);printf("The null character is %d.\n", string[1]);}

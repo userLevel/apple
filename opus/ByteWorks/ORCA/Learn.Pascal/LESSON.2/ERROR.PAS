@@ -1,0 +1,1 @@
+{ Overflowing an Integer }program Error(output);var   i: integer;begini := 500;writeln(i*i);end.

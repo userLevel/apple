@@ -1,0 +1,1 @@
+MORERECENT tfile file1 ...Checks to see if any file is more recent than a test file.  If so, {Status} isset to 1.  If not, {Status} is set to 0.Parameters:     tfile      Test file.  If any file is more recent than this one, {Status}                is set to 1.     file1 ...  One or more files to compare with tfile.

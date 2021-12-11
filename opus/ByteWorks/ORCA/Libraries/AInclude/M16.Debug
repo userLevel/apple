@@ -1,0 +1,1 @@
+; File: M16.Debug;;; Copyright Apple Computer, Inc. 1991; All Rights Reserved;;		MACRO&lab		name&lab		anop		aif	DebugSymbols=0,.pastName		brl	pastName&syscnt		dc	i'$7771'		dc	i1'L:&lab',c'&lab'pastName&syscnt	anop.pastName		MEND

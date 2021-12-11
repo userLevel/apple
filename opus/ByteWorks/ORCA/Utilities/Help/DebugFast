@@ -1,0 +1,1 @@
+DebugFastDebug code takes time to execute.  This utility sends a message to thedebugger, telling it to replace any debug code it finds with JMP instructions.In many cases, this will speed up a program with debug code enough that thereis no noticable difference in speed between the program with and withoutdebug code.See also DebugNoFast.

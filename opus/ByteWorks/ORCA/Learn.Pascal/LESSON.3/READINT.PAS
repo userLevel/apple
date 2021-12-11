@@ -1,0 +1,1 @@
+{ Read an integer and write it to the screen. }program ReadInteger(input, output);var   i: integer;beginreadln(i);writeln(i);end.

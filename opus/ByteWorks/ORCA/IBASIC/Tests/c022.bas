@@ -1,0 +1,1 @@
+100 rem110 rem Test the gosub and return statements120 rem130 sum = 0140 gosub 180150 if sum = 7 then print "Passed C022"160 if sum # 7 then print "Failed C022"170 end180 sum = sum+1190 gosub 230200 sum = sum+2210 return220 sum = sum+8230 sum = sum+4240 return250 sum = sum+16260 end

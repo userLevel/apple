@@ -1,0 +1,1 @@
+EXPORT [name...]The named variable is marked as exportable.  The variable will be defined inany EXEC file.If the name is omitted, a list of exportable variables is shown.Parameters:     name       Name of the variable to export.  Multiple names may be used                with a single EXPORT command.

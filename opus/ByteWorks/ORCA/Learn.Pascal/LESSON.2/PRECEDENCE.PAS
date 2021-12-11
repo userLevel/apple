@@ -1,0 +1,1 @@
+{ A look at operator precedence }program Precedence(output);beginwriteln(1+2*3);end.

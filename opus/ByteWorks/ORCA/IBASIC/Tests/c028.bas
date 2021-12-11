@@ -1,0 +1,1 @@
+100 rem110 rem Test the dim statement for strings120 rem130 sum = 1140 dim a$(10)150 a$ = "abcdefghij"160 for i = 1 to 10170    if asc(a$(i,i)) # asc("a")+i-1 then sum = 0180 next i190 if sum then print "Passed C028"200 if not sum then print "Failed C028"

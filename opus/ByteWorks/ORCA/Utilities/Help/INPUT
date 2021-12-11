@@ -1,0 +1,1 @@
+INPUT variableReads a line of text from standard in, setting the shell variable given to thetext read from the line.Parameters:     variable   Shell variable in which to store the line.

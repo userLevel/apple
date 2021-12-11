@@ -1,0 +1,1 @@
+/* A closer look at      *//* pseudo-random numbers */#include <stdio.h>#include <stdlib.h>unsigned i;  /* loop variable */int seed;    /* seed */void main(void){printf("Random number seed = ");scanf(" %d", &seed);srand(seed);for (i = 1; i <= 10; ++i)   printf("%d\n", rand());}

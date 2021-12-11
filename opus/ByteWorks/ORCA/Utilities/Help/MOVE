@@ -1,0 +1,1 @@
+MOVE [-C] [-P] file1 [file2]Move works like COPY, except that after the file is copied, it is deleted.See COPY for a full description.Parameters:     -C         Don't check before deleting destination files.     -P         Suppress progress information.     file1      File to move.     file2      Location to move to.

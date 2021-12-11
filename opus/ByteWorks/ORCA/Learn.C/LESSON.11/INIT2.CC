@@ -1,0 +1,1 @@
+#include <stdio.h>void main (void){int i;i = 4;printf("%d\n", i);}

@@ -1,0 +1,1 @@
+       <S> Set PasswordThis command lets you enter apassword.  Passwords are required forboth the encrypt and decrypt commands.The password will not be shown on thescreen as you type it in.  Use theleft arrow key to delete the lastcharacter from the password if you makea mistake while typing it in..

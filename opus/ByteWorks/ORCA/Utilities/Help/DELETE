@@ -1,0 +1,1 @@
+DELETE [-C] [-P] [-W] fileFile is deleted.Parameters:     -C         Don't check before deleteing directories or all files.     -P         Suppress progress information.     -W         Don't print warning when files are not found.     file       Name of file to delete.

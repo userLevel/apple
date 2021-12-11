@@ -1,0 +1,1 @@
+; File:  E16.ACE;;; Copyright Apple Computer, Inc. 1986-90; All Rights Reserved;;aceNoError GEQU $0000aceIsActive GEQU $1D01aceBadDP GEQU $1D02aceNotActive GEQU $1D03 ; aceNoSuchParam GEQU $1D04aceBadMethod GEQU $1D05aceBadSrc GEQU $1D06aceBadDest GEQU $1D07aceDataOverlap GEQU $1D08aceNotImplemented GEQU $1DFF

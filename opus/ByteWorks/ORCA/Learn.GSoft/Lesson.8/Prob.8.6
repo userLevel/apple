@@ -1,0 +1,1 @@
+      REM Dump any file as a series of BYTE values.      DIM B AS BYTE :! Used to read values from the file.      ! Open the file.      INPUT "File to read: ";NAME$      OPEN NAME$ FOR BINARY AS #1      ! Read and print the bytes.      WHILE NOT EOF (1)        GET #1, , B        PRINT B, ;      WEND      PRINT      ! Close the file.      CLOSE #1

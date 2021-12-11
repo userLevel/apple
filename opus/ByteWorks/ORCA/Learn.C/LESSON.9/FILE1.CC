@@ -1,0 +1,1 @@
+/* Write some numbers to a *//* file.                   */#include <stdio.h>void main(void){FILE *f;int i;f = fopen("myfile", "w");for (i = 1; i <= 10; ++i)   fprintf(f, "%d\n", i);fclose(f);}

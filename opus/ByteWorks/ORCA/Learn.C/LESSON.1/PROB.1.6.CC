@@ -1,0 +1,1 @@
+#include <quickdraw.h>void main(void){SetPenMode(0);SetSolidPenPat(2);SetPenSize(6,2);MoveTo(110,50);LineTo(190,50);LineTo(150,24);LineTo(110,50);MoveTo(110,33);LineTo(190,33);LineTo(150,59);LineTo(110,33);}

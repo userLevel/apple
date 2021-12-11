@@ -1,0 +1,1 @@
+ALIAS [name [string]]Creates a command alias named NAME.  Typing the named alias is then equivalentto typing STRING from the command line.  For example,        ALIAS DUMP DUMPOBJ -F +X -Hcreates a new command called DUMP that dumps files in hexadecimal format.Parameters:     name       Name of the new command.     string     String to substitute for the command.

@@ -1,0 +1,1 @@
+{ write a table of squares }program Squares(output);var   i: integer;                  {loop variable}   s: integer;                  {square of i}beginfor i := 1 to 5 do begin   s := i*i;   writeln(i:10, s:10);   end; {for}end.

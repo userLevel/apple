@@ -1,0 +1,1 @@
+{ Find the largest integer }program Big(output);beginwriteln(maxint);end.

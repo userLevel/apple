@@ -1,0 +1,1 @@
+      REM A closer look at pseudo-random numbers       FOR I = 1 TO 10        PRINT RND (1)      NEXT

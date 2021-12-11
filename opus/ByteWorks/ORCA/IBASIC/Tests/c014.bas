@@ -1,0 +1,1 @@
+100 rem110 rem Make sure the mod operator works120 rem130 sum = 0140 if (1 mod 1) = 0 then sum = sum + 1150 if (5 mod 2) = 1 then sum = sum + 2160 if ((-5) mod 3) = (-2) then sum = sum + 4170 if (10 mod 3) = 1 then sum = sum + 8180 if (10000 mod 9) = 1 then sum = sum + 16190 if sum = 31 then print "Passed C014"200 if sum # 31 then print "Failed C014"

@@ -1,0 +1,1 @@
+program PurpleSquare;uses Common, QuickDrawII;beginSetPenMode(0);SetSolidPenPat(1);SetPenSize(3,1);MoveTo(10,10);LineTo(90,10);LineTo(90,40);LineTo(10,40);LineTo(10,10);end.

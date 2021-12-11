@@ -1,0 +1,1 @@
+{ Print the printing ASCII characters and their ordinal values. }program ASCII(output);var   ch: char;                            {loop variable}beginfor ch := ' ' to '~' do                  {write the printing ASCII chars}   writeln(ord(ch), ch:8);end.

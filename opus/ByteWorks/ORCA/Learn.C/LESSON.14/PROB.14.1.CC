@@ -1,0 +1,1 @@
+#include <stdio.h>int Exp (int x, int y){if (y)   return Exp(x, y-1) * x;return 1;}void main(void){printf("%d\n", Exp(5,4));}

@@ -1,0 +1,1 @@
+#include <stdio.h>int c = 3;void fn(void){static int a = 1;int b = 2;printf ("%d %d %d\n", a, b, c);a *= 2;b *= 2;c *= 2;}void main (void){fn();fn();}

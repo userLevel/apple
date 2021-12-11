@@ -1,0 +1,1 @@
+100 rem110 rem Test the sgn function120 rem130 sum = 1140 if sgn(1) # 1 then sum = 0150 if sgn(100) # 1 then sum = 0160 if sgn(0) # 0 then sum = 0170 if sgn(-1) # -1 then sum = 0180 if sgn(-3) # -1 then sum = 0190 if sum then print "Passed C034"200 if not sum then print "Failed C034"

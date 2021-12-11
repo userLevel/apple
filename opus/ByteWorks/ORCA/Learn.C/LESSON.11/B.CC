@@ -1,0 +1,1 @@
+#include <stdio.h>extern int start, stop;static void loop (void){int i;for (i = start; i <= stop; ++i)   printf("%d\n", i);}void doit(void){loop();}

@@ -1,0 +1,1 @@
+      HGR      THETA = 0.0      R = 100.0      MOVETO (320, 100)      WHILE R > 0.0        THETA = THETA + 3.1415926535 / 20.0        LINETO ( CINT ( COS (THETA) * R * 1.6) + 160, CINT ( SIN (THETA) * R) + 100)        R = R - 0.15      WEND      GET S$

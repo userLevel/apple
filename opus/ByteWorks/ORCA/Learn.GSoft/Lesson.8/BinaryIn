@@ -1,0 +1,1 @@
+      REM Read numbers from a binary file and print them.      ! Open the file.      OPEN "temp" FOR BINARY AS #1      ! Read and print the numbers.      WHILE NOT EOF (1)        GET #1, , I%        PRINT I%      WEND      ! Close the file.      CLOSE #1

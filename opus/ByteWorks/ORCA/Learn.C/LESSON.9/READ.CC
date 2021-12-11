@@ -1,0 +1,1 @@
+/* Read some numbers from a *//* file.                    */#include <stdio.h>void main(void){FILE *f;int i, num;f = fopen("myfile", "r");do {   num = fscanf(f, "%d", &i);   if (num == 1)      printf("%d\n", i);   }while (num != EOF);fclose(f);}

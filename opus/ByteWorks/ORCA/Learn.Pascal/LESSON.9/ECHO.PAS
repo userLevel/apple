@@ -1,0 +1,1 @@
+{ Read a file char-by-char }program Echo(output);var   f: text;beginreset(f, 'me.pas');while not eof(f) do begin   if eoln(f) then begin      get(f);      writeln;      end {if}   else begin      write(f^);      get(f);      end; {else}   end; {while}end.

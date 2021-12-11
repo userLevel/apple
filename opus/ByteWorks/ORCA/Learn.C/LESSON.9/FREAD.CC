@@ -1,0 +1,1 @@
+/* read a binary file */#include <stdio.h>void main(void){float x;FILE *f;int num;f = fopen("myfile", "rb");do {   num = fread(&x, sizeof(x), 1, f);   if (num)      printf("%f\n", x);   }while (num);fclose(f);}

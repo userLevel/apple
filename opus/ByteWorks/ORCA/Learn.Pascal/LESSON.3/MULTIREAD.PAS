@@ -1,0 +1,1 @@
+{ Multiple reads }program random(input,output);var   n1,n2,n3,n4: integer;                {values to read}beginreadln(n1,n2);readln(n3,n4);writeln(n1,n2,n3,n4);end.

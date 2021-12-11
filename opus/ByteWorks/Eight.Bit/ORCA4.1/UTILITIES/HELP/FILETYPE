@@ -1,0 +1,1 @@
+FILETYPE file typeChanges the file's type to the type specified.Parameters:     file       The name of the file to change.     type       Type of file in one of the following formats:                        nnn     (decimal number in [0..255])                        $xx     (hex number in [$0..$FF])                        ccc     (characters from a catalog, i.e. SYS)

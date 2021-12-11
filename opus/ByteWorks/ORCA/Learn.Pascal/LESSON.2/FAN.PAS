@@ -1,0 +1,1 @@
+{ Draw a fan shape in the graphics window }program Fan;uses Common, QuickDrawII;var   i: integer;                          {loop variable}beginSetPenMode(0);                          {set up for graphics}SetSolidPenPat(2);SetPenSize(2,1);for i := 1 to 25 do begin               {draw the fan}   MoveTo(160, 70);   LineTo(i*12-10, 10);   end; {for}end.

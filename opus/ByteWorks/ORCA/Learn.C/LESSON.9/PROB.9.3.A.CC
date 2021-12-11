@@ -1,0 +1,1 @@
+/* Write 1 to 10 to file1 */#include <stdio.h>void main(void){FILE *f;int i;f = fopen("file1", "w");for (i = 1; i <= 10; ++i)   fprintf(f, "%d\n", i);fclose(f);}

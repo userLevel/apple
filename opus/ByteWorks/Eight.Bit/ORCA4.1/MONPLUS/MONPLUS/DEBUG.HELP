@@ -1,0 +1,1 @@
+DEBUG [file]The MON+ symbolic debugger is executed.  If the optional file parameter isspecified, the named file is loaded using the equivalent of the MON+ BLOADcommand.Once in MON+, use the HELP command to get a list of available options.Refer to the MON+ User's Manual for detailed descriptions of the commands.Parameters:     file       Binary file to debug.

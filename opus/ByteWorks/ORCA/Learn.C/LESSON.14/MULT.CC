@@ -1,0 +1,1 @@
+#include <stdio.h>int Mult (int x, int y){if (y)   return Mult(x, y-1) + x;return 0;}void main(void){printf("%d\n", Mult(4,5));}

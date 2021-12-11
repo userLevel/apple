@@ -1,0 +1,1 @@
+100 rem110 rem Make sure parenthesis work120 rem130 sum = 0140 if (3*(1+2)) = 9 then sum = sum + 1150 if (3*1+2) = 5 then sum = sum + 2160 if sum = 3 then print "Passed C018"170 if sum # 3 then print "Failed C018"

@@ -1,0 +1,1 @@
+      REM Do 100,000 multiplies to time DOUBLE operations.      DIM A AS DOUBLE      DIM B AS DOUBLE      DIM C AS DOUBLE      DIM I AS LONG      A = 1.2      B = 3.4      FOR I = 1 TO 100000        C = A * B      NEXT

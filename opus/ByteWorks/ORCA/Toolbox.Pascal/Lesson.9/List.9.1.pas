@@ -1,0 +1,1 @@
+program Dither (input);uses Common, QuickDrawII;var   color: integer;                       {pen color}   i: integer;                           {loop variable}beginStartGraph(640);color := 0;for i := 0 to 639 do begin   SetSolidPenPat(color);   MoveTo(i, 0);   LineTo(i, 199);   color := color ! 3;   end; {for}readln;EndGraph;end.

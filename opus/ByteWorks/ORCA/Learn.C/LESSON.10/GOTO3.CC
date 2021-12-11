@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){int i;for (i = 1; i <= 10; ++i) {   if (i & 1)      goto loop;   printf("%d\n", i);   loop: ;   }}

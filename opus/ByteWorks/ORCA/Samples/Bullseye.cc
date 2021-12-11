@@ -1,0 +1,1 @@
+#include <stdio.h>#include <QuickDraw.h>int main (void){unsigned color;unsigned radius;Rect r;color = 1;SetPenMode(modeCopy);for (radius = 20; radius > 0; --radius) {   SetSolidPenPat(color);   color = color ^ 3;   r.h1 = 160-radius*5;   r.h2 = 160+radius*5;   r.v1 = 42-radius*2;   r.v2 = 42+radius*2;   PaintOval(&r);   }printf("Bulls-eye!\n");}

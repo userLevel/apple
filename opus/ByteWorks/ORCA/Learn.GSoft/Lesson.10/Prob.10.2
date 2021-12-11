@@ -1,0 +1,1 @@
+      REM Print strings in reverse order until a zero length string is entered.      DO        LINE INPUT "Enter a string: ";LINE$        IF LEN (LINE$) <> 0 THEN          FOR I% = LEN (LINE$) TO 1 STEP - 1            PRINT MID$ (LINE$, I%, 1);          NEXT          PRINT        END IF      LOOP WHILE LEN (LINE$) <> 0

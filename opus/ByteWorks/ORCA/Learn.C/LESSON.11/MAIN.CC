@@ -1,0 +1,1 @@
+void main(void){loop(1,10);doit();}

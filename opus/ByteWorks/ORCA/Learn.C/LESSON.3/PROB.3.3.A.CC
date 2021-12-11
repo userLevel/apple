@@ -1,0 +1,1 @@
+/* Empty timing loop *//* Note: be sure to run this program with debug turned off! */#include <stdio.h>unsigned i,j;                           /* loop variables */void main(void){printf("Start timer...\n");for (i = 1; i <= 10000; ++i)   for (j = 1; j <= 25; ++j)      ;printf("Stop timer.\n");}

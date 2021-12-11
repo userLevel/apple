@@ -1,0 +1,1 @@
+{ Read the alphabet file. }program ReadIt(output);var   ch: char;   f: file of char;   i: integer;beginreset(f, 'Alphabet');for i := 1 to 26 do begin   read(f, ch);   write(ch);   end; {for}writeln;end.

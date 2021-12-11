@@ -1,0 +1,1 @@
+COMMANDS fileThe current command table is deleted, and a new one is read from the indicatedfile.Parameters:     file       Name of command file.

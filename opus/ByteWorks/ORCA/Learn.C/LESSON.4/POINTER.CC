@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){int i, j, *ptr;i = 4;ptr = &i;j = *ptr;printf("%d %d\n", *ptr, j);}

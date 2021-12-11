@@ -1,0 +1,1 @@
+/* Read an integer and write   *//* it to the screen.           */#include <stdio.h>int i;void main (void){scanf(" %d", &i);printf("%d\n", i);}

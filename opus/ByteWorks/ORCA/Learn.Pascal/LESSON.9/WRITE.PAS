@@ -1,0 +1,1 @@
+{ Write the alphabet to a file. }program WriteIt;var   f: file of char;   ch: char;beginrewrite(f, 'Alphabet');for ch := 'A' to 'Z' do begin   f^ := ch;   put(f);   end; {for}end.

@@ -1,0 +1,1 @@
+{ Empty timing loop }{ Note: be sure to run this program with debug turned off! }program TimeIt(output);var   i,j: integer;                        {loop variables}beginwriteln('Start timer...');for i := 1 to 10000 do   for j := 1 to 25 do      ;writeln('Stop timer.');end.

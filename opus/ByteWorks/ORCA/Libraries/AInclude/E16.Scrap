@@ -1,0 +1,1 @@
+; File:  E16.Scrap;;; Copyright Apple Computer, Inc. 1986-90; All Rights Reserved;;badScrapType GEQU $1610 ; No scrap of this type.textScrap GEQU $0000picScrap GEQU $0001sampledSoundScrap GEQU $0002teStyleScrap GEQU $0064iconScrap GEQU $4945maskScrap GEQU $8001colorTableScrap GEQU $8002resourceRefScrap GEQU $8003

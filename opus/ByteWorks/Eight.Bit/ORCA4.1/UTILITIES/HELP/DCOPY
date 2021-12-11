@@ -1,0 +1,1 @@
+DCOPY d1 d2Copies an entire disk.  Single drive copies are possible.Parameters:     d1         Source device or volume name.     d2         Destination device or volume name.

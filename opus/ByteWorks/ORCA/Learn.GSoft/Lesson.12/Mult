@@ -1,0 +1,1 @@
+      PRINT MULT(4, 5)      END      FUNCTION MULT(X AS INTEGER , Y AS INTEGER ) AS INTEGER      IF Y = 0 THEN        MULT = 0      ELSE        MULT = MULT(X, Y - 1) + X      END IF      END FUNCTION

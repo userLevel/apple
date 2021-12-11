@@ -1,0 +1,1 @@
+program Pointers(output);var   i,j: integer;   ip: ^integer;beginnew(ip);j := 4;ip^ := j;i := ip^;writeln(i);dispose(ip);end.

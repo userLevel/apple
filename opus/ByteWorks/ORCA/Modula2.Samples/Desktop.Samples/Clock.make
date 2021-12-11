@@ -1,0 +1,1 @@
+set echo oncmpl +t +e +m clock.modfiletype clock nda

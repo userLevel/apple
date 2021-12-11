@@ -1,0 +1,1 @@
+100 rem110 rem  Test the tab and vtab commands120 rem130 print "You should see a 10 by 10 X starting on line 2, column 2."140 for i = 1 to 10150    tab i+1160    vtab i+1170    print "*";180    tab 12-i190    print "*";200 next i

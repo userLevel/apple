@@ -1,0 +1,1 @@
+AddIJK  start        clc        lda     I        adc     J        sta     K        rtl        end

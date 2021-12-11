@@ -1,0 +1,1 @@
+/* sample of printf with long *//* and unsigned long values   */#include <stdio.h>void main (void){long l;unsigned long ul;l = 5000000l;ul = 100ul;printf("%lu\n", 123456lu);printf("%ld\n", -100000l);printf("%ld\n", l);printf("%lu\n", ul);}

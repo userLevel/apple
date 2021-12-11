@@ -1,0 +1,1 @@
+      DIM I AS INTEGER      I = 1      CALL TEST((I))      PRINT I      END      SUB TEST(J AS INTEGER )      J = J + 1      END SUB

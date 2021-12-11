@@ -1,0 +1,1 @@
+      REM Gas cost at 12% inflation      CURRENTCOST = 1.00:! current cost of the item      INFLATION = 12.0:! inflation rate      COST = CURRENTCOST      FOR YEAR = 1 TO 10        COST = COST + COST * INFLATION / 100.0        PRINT USING "Cost of a $#.## item after # years is $#.##";CURRENTCOST, YEAR, COST      NEXT

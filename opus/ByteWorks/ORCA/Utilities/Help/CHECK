@@ -1,0 +1,1 @@
+CHECK [-S] [-V] volumeChecks the disk by reading all of the blocks on the disk.Parameters:     -S         Don't print anything - set return codes only.     -V         Prints the copyright notice and version number.     volume     Device number or name of the disk to check.

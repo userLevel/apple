@@ -1,0 +1,1 @@
+   10 HGR   20 FOR I = 0 TO 15   25   SETSOLIDPENPAT (I)   30   MOVETO (I * 10, 0)   40   LINETO (I * 10, 200)   50 NEXT   60 INPUT "";A$

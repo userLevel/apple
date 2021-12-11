@@ -1,0 +1,1 @@
+{ File I/O demo }program IO(output);var   f: file of integer;   i: integer;begin{open the file for output}rewrite(f);{write 10 values to the file}for i := 1 to 10 do begin   f^ := i;   put(f);   end; {for}{open the same file for input}reset(f);{read and echo the values}for i := 1 to 10 do begin   writeln(f^);   get(f);   end; {for}end.

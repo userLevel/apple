@@ -1,0 +1,1 @@
+      DIM CITY AS STRING , STATE AS STRING , ZIP AS LONG      INPUT "Please type your city, state and zip code: ";CITY, STATE, ZIP      PRINT CITY, STATE, ZIP

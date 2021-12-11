@@ -1,0 +1,1 @@
+{ Write this program! }program WriteMe(output);var   f: text;   l: string[80];beginreset(f, 'me.pas');while not eof(f) do begin   readln(f, l);   writeln(l);   end; {while}end.

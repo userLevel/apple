@@ -1,0 +1,1 @@
+program Exponent (output);   function Exp(x,y: integer): integer;   begin {Exp}   if y = 0 then      Exp := 1   else      Exp := Exp(x, y-1) * x;   end; {Exp}beginwriteln(Exp(5,4));end.

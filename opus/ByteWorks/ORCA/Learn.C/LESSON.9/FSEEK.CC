@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){FILE *f;int i;f = fopen("numbers", "ab");if (f == NULL) return;fseek(f, sizeof(int)*3, 0);i = 4;fwrite(&i, sizeof(int), 1, f);fclose(f);}

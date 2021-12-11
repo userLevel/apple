@@ -1,0 +1,1 @@
+program Multiply (output);   function Mult(x,y: integer): integer;   begin {Mult}   if y = 0 then      Mult := 0   else      Mult := Mult(x, y-1) + x;   end; {Mult}beginwriteln(Mult(4,5));end.

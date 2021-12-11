@@ -1,0 +1,1 @@
+/* Read a float and write      *//* it to the screen.           */#include <stdio.h>float i;void main (void){scanf(" %f", &i);printf("%f\n", i);}

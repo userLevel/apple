@@ -1,0 +1,1 @@
+      REM Print the contents of FILE3.      OPEN "FILE3" FOR INPUT AS #1      WHILE NOT EOF (1)        LINE INPUT #1, LINE$        PRINT LINE$      WEND      CLOSE #1

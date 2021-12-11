@@ -1,0 +1,1 @@
+100 rem110 rem Test the pop statement120 rem130 sum = 0140 gosub 180150 if sum = 13 then print "Passed C023"160 if sum # 13 then print "Failed C023"170 end180 sum = sum+1190 gosub 220200 sum = sum+2210 return220 sum = sum+4230 pop240 sum = sum+8250 return

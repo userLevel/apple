@@ -1,0 +1,1 @@
+program OutOfMemory(output);type   a = array[1..10000] of integer;var   p: ^a;   count: integer;begincount := 0;repeat   writeln(count);   count := count+1;   new(p);until false;end.

@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){union int_float {   int i;   float f;   } u;u.i = 4;printf("u.i = %d\n", u.i);u.f = 1.2;printf("u.f = %f\n", u.f);printf("u.i = %d\n", u.i);}

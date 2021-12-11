@@ -1,0 +1,1 @@
+INIT dev <name>The standard format floppy disk in dev is initialized.  If name is specified,the new volume is given that name; otherwise, BLANK is used.Parameters:     dev        Device number (i.e. .D1) if the device to initialize.  A volume                name may be used if the disk has already been initialized.     name       Name to assign to the new disk.

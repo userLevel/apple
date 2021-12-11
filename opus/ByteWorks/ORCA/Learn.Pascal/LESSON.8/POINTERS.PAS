@@ -1,0 +1,1 @@
+program Pointers(output);var   i,j: integer;   ip: ^integer;beginj := 4;ip^ := j;i := ip^;writeln(i);end;

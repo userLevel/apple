@@ -1,0 +1,1 @@
+100 rem110 rem Make sure the and operator works120 rem130 sum = 0140 if 1 and 1 then sum = sum + 1150 if -2 and 1 then sum = sum + 2160 if 1 and 0 then sum = sum + 4170 if 0 and 1 then sum = sum + 8180 if 0 and 0 then sum = sum + 16200 if sum = 3 then print "Passed C009"210 if sum # 3 then print "Failed C009"

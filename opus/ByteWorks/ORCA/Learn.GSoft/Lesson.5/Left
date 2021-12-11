@@ -1,0 +1,1 @@
+      A$ = "testing"      FOR I% = 0 TO 8        PRINT I%, LEFT$ (A$, I%)      NEXT

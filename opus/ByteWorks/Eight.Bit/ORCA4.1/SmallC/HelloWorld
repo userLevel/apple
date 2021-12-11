@@ -1,0 +1,1 @@
+#keep "tryit"main (){print ("Hello, world...\r");}print(str)char *str;{while(*str)   putchar(*str++);}

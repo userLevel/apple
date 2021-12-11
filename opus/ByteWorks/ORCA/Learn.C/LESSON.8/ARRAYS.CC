@@ -1,0 +1,1 @@
+#include <stdio.h>void main (void){int a[2], *ip;a[0] = 4;ip = a;printf("%d\n", *ip);}

@@ -1,0 +1,1 @@
+ MACRO&lab dp &pointer&lab dc i4'&pointer' MEND MACRO&lab longm&lab ANOP rep #%00100000 longa on MEND MACRO&lab shortm&lab ANOP sep #%00100000 longa off MEND MACRO DSect &Value GBLA &DummyPC&DummyPC SETA &Value MEND MACRO&lab WORD&lab equ &DummyPC&DummyPC SETA &DummyPC+2 MEXIT MEND MACRO&lab LONG&lab equ &DummyPC&DummyPC SETA &DummyPC+4 MEND

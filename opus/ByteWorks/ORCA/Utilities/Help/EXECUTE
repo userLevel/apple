@@ -1,0 +1,1 @@
+EXECUTE fileThe named file is executed.  It must be an EXEC file.  The difference betweenusing the EXECUTE command and simply typing the file name is that changes tovariables affect the variable table at the level that the command was issued,instead of making a local variable table.Parameters:     file       Name of the file to execute.

@@ -1,0 +1,1 @@
+#include <stdio.h>void test1 (int i){int j;if (i)   j = i;printf("In test1, i = %d, "   "j = %d\n", i, j);}void test2 (int i){int j;if (i)   j = i;printf("in test2, i = %d, "   "j = %d\n", i, j);}void main(void){test1(2);test2(3);test1(0);}

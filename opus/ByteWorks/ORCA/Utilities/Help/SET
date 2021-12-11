@@ -1,0 +1,1 @@
+SET [name] [string]The named variable is set to the string.If the string is omitted, the value of the variable is written to standard out.If both the name and the string are omitted, a list of all variables and theirvalues is written to standard out.Parameters:     name       Name of the variable to set.     string     String to set the variable to.

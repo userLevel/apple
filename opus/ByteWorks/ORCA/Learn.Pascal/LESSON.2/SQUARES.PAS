@@ -1,0 +1,1 @@
+{ This program prints a table of numbers and squares of the numbers }program Squares(output);var   i,s: integer;               {i is a number, s is its square}begini := 1;s := i*i;writeln(i:10, s:10);i := i+1;s := i*i;writeln(i:10, s:10);i := i+1;s := i*i;writeln(i:10, s:10);i := i+1;s := i*i;writeln(i:10, s:10);i := i+1;s := i*i;writeln(i:10, s:10);end.

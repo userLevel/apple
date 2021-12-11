@@ -1,0 +1,1 @@
+{$rangecheck+}program oops;var   i: integer;   goof: array[1..2] of integer;beginfor i := 1 to maxint do   goof[i] := i;end.

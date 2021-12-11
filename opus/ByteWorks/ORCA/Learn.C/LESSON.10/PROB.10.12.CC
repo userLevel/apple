@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){int i;i = 1;top:printf ("%d\n", i);++i;if (i <= 10) goto top;}

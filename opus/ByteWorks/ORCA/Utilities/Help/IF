@@ -1,0 +1,1 @@
+IF expressionIf the expression is true, the statement after the IF is executed.  If not,processing continues with the next ELSE or END.Parameters:     expression Expression to evaluate to determine if the lines that follow                are to be executed.

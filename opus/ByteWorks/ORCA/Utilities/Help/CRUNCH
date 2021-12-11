@@ -1,0 +1,1 @@
+CRUNCH [-P] fileCombines all of the object modules created by partial assemblies into a single.A file.  File is the same name used in the KEEP directive to create theobject modules.Parameters:     -P         Supresses version number and progress information.     file       Keep name for the files to crunch.

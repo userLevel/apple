@@ -1,0 +1,1 @@
+100 rem110 rem Make sure the not operator works120 rem130 sum = 0140 if (not 1) = 0 then sum = sum + 1150 if (not 2) = 0 then sum = sum + 2160 if (not (-5)) = 0 then sum = sum + 4170 if (not 0) = 1 then sum = sum + 8180 if sum = 15 then print "Passed C016"190 if sum # 15 then print "Failed C016"

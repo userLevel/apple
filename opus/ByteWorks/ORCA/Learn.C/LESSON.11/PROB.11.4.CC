@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){char str[] = "Hello, world.\n";printf(str);}

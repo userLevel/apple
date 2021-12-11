@@ -1,0 +1,1 @@
+{ Read a real and write it to the screen. }program ReadReal(input, output);var   i: real;beginreadln(i);writeln(i);end.

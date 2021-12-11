@@ -1,0 +1,1 @@
+{ Long Integers }program Long(output);var   i: longint;begini := 500;writeln(i*i);end.

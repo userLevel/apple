@@ -1,0 +1,1 @@
+#include <stdio.h>#include <stdlib.h>#include <stddef.h>void main (void){unsigned count;int *p;count = 0;do {   p = (int *) malloc (10000);   ++count;   }while (p != NULL);printf("%d 10000 byte areas"   " allocated.\n", count-1);}

@@ -1,0 +1,1 @@
+HELP [name]If name is not specified, a list of the commands in the current command tableis generated.  If name is specified, the system looks for a TXT file by thatname on the HELP directory of the UTILITIES subdirectory.  If found, the fileis sent to standard out.Parameters:     name       Name of the help file to type.

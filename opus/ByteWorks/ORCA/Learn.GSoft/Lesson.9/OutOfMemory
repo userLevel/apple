@@ -1,0 +1,1 @@
+      DIM P AS POINTER TO INTEGER      DIM COUNT AS LONG      COUNT = 0      DO        ALLOCATE (P)        COUNT = COUNT + 1      LOOP UNTIL P = NIL      PRINT COUNT;" integers were allocated."

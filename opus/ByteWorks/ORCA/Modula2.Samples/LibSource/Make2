@@ -1,0 +1,1 @@
+compile asm/m2lib.asm keep=obj/$compile asm/storage.asm keep=obj/$makelib m2lib +obj/m2lib.amakelib m2lib +obj/storage.adelete 13/m2libmove m2lib 13/

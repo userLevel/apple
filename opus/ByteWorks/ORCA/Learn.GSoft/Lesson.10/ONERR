@@ -1,0 +1,1 @@
+      ONERR GOTO 99      DIM A(5) AS INTEGER      FOR I = 0 TO 5        A(5) = 5      NEXT      I = 7      B = A(I)      PRINT "A(";I;") = ";B      END   99 IF ERR <> 11 THEN        ONERR GOTO 0        ERROR ERR      END IF      IF I > 5 THEN        I = 5      ELSE IF I < 0 THEN        I = 0      END IF      RESUME

@@ -1,0 +1,1 @@
+{ Create File1 }program MakeFile(output);var   f: file of integer;   i: integer;begin{open the file for output}rewrite(f, 'file1');{write the file values}for i := 1 to 10 do   write(f, i);end.

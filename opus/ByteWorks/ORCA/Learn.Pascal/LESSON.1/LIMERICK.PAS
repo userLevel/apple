@@ -1,0 +1,1 @@
+program Limerick(output);beginwriteln('There was an old man with a beard');writeln('Who said, "It is just as I feared!"');writeln('    Two Owls and a Hen,');writeln('    Four Larks and a Wren,');writeln('Have all built their nests in my beard.');end.

@@ -1,0 +1,1 @@
+UNSET nameThe named variable is removed from the variable table.It is an error if the name is omitted.Parameters:     name       Name of the variable to remove.

@@ -1,0 +1,1 @@
+REMOVEREZ nameRemoves the resource fork from a file, leaving the data fork unchanged.  Thiscommand creates a temporary file called SysRTemp on the work prefix.Parameters:     name       Name of the file.

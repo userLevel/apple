@@ -1,0 +1,1 @@
+procedure WriteFile;var   f: file of integer;   i: integer;begin {WriteFile}rewrite(f);for i := 1 to 10 do begin   f^ := i;   put(f);   end; {for}{the file is closed here}end; {WriteFile}

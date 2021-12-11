@@ -1,0 +1,1 @@
+ERROR error_codeUses an APW  Shell facility to display an error message related tothe input error code.  Both toolbox and ProDOS errors are supported.The error_code should consist of 1 to 4 hexadecimal digits, with anoptional leading '$' sign.Example :-ERROR 0201Memory Manager: Memory fullCopyright by Peter Watson, December 1988.

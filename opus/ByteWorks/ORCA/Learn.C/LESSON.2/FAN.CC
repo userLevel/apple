@@ -1,0 +1,1 @@
+/* Draw a fan shape in the     *//* graphics window             */#include <quickdraw.h>int i;        /* loop variable */void main (void){/* set up for graphics */SetPenMode(0);SetSolidPenPat(2);SetPenSize(2,1);/* draw the fan */for (i = 1; i <= 25; ++i) {   MoveTo(160, 70);   LineTo(i*12-10, 10);   }}

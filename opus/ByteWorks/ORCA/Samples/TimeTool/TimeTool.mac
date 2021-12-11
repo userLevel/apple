@@ -1,0 +1,1 @@
+ MACRO&lab _ReadTimeHex&lab ldx #$0D03 jsl $E10000 MEND

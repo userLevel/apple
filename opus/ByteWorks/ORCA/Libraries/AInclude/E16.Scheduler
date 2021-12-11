@@ -1,0 +1,1 @@
+; File:  E16.Scheduler;;; Copyright Apple Computer, Inc. 1986-90; All Rights Reserved;;busyFlag GEQU $00E100FF

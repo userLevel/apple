@@ -1,0 +1,1 @@
+100 rem110 rem  Test the print statement120 rem130 print "All of the following lines should be exact duplicates."140 print150 print "Hello, world."160 print "Hello, ";170 print "world."180 print190 print ,12345,"A",-3200 print ,12;345,"A              -3"

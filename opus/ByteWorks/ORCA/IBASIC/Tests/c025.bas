@@ -1,0 +1,1 @@
+100 rem110 rem Test the if statement120 rem130 sum = 0140 if 1 then sum = sum+1150 if 0 then sum = sum+2160 if -1 then sum = sum+4170 if 1 then goto 190 : sum = sum+8180 sum = sum+16190 if 1 then 210200 sum = sum+32210 if sum = 5 then print "Passed C025"220 if sum # 5 then print "Failed C025"

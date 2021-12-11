@@ -1,0 +1,1 @@
+100 rem110 rem Test the abs function120 rem130 sum = 1140 if abs(1) # 1 then sum = 0150 if abs(100) # 100 then sum = 0160 if abs(0) # 0 then sum = 0170 if abs(-1) # 1 then sum = 0180 if abs(-3) # 3 then sum = 0190 if sum then print "Passed C033"200 if not sum then print "Failed C033"

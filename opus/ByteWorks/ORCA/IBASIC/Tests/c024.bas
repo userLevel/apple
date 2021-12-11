@@ -1,0 +1,1 @@
+100 rem110 rem Test the let statement120 rem130 let sum = 0140 let sum = sum+1150 if sum = 1 then print "Passed C024"160 if sum # 1 then print "Failed C024"

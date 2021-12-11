@@ -1,0 +1,1 @@
+100 rem110 rem Test the goto statement120 rem130 goto 160140 print "Passed C021"150 end160 goto 140170 print "Failed C021"

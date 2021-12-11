@@ -1,0 +1,1 @@
+      REM Draw a fan shape in the graphics window       DIM I AS INTEGER :! loop/index variable      ! Set up the graphics screen      HGR      SETPENMODE (0)      SETSOLIDPENPAT (2)      ! Draw the fan      FOR I = 1 TO 25        MOVETO (160, 70)        LINETO (I * 12 - 10, 10)      NEXT      ! Wait for a return      INPUT "";A$

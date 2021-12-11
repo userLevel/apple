@@ -1,0 +1,1 @@
+MERLN.II  [ infile ]   [ < infile ]  [ > outfile ]The Merlin source file is translated to an ORCA source file.  If no input fileis given then input is taken from the keyboard.Parameters:     infile     Merlin source file to translate.     outfile    Translated ORCA source file.

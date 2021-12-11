@@ -1,0 +1,1 @@
+      REM Read any number of lines from the file TEMP and print the      REM lines.      ! Open the file.      OPEN "temp" FOR INPUT AS #1      ! Read the lines until we hit the end of file mark.      WHILE NOT EOF (1)        LINE INPUT #1, LINE$        PRINT LINE$      WEND      ! Close the file.      CLOSE #1

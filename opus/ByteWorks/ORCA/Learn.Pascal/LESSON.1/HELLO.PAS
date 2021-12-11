@@ -1,0 +1,1 @@
+program Hello(output);beginwriteln('Hello, world.');end.

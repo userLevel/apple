@@ -1,0 +1,1 @@
+       <D> Decrypt a FileThe decrypt command is used todecode a file which has been encryptedwith the <E> command.  Start byusing the <S> command to enter thesame password used to encrypt the file.Typing D starts the decryption process.Files to be decrypted are selected thesame way they were selected forencryption.  ESC will then start thedecryption process..

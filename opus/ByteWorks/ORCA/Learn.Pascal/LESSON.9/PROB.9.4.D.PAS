@@ -1,0 +1,1 @@
+{ Read file3 }program ReadIt(output);var   f: file of integer;   i: integer;beginreset(f, 'file3');while not eof(f) do begin   read(f, i);   writeln(i);   end; {for}end.

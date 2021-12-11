@@ -1,0 +1,1 @@
+cmpl +t +e -x worldcdev.pascompile +t +e worldcdev.rez keep=WorldCDevfiletype worldcdev $C7

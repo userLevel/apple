@@ -1,0 +1,1 @@
+#include <stdio.h>#include <string.h>void main(void){char string1[20], string2[20];strcpy(string1,   "Hello, world.\n");strcpy(string2, string1);printf(string1);printf(string2);}

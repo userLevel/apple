@@ -1,0 +1,1 @@
+      REM Print the printing ASCII characters.      HGR      MOVETO (15, 15)      FOR R% = 32 TO 112 STEP 16        FOR C% = 0 TO 15          IF C% + R% <> 127 THEN            PRINT CHR$ (R% + C%);          END IF        NEXT        PRINT      NEXT      INPUT "";A$

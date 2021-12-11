@@ -1,0 +1,1 @@
+DISASM [pathname [templateName]]Executes the text-based version of ORCA/Disassembler then loads thefile specified by pathname, and loads the template for that file asspecified by templateName.

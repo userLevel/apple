@@ -1,0 +1,1 @@
+      DIM IP AS POINTER TO INTEGER      DIM I AS INTEGER      DIM J AS INTEGER      ALLOCATE (IP)      J = 4      IP^ = J      I = IP^      PRINT I      DISPOSE (IP)

@@ -1,0 +1,1 @@
+{ Write the NUMBERS file }program WriteNumbers(output);var   f: file of integer;   i: integer;beginreset(f, 'NUMBERS');while not eof(f) do begin   read(f, i);   writeln(i);   end; {while}end.

@@ -1,0 +1,1 @@
+       <X> Expand TextThe Expand Text command reverses theeffect of the <C> command so thatthe file can be used again.  Filesare selected and converted the sameway they were compressed..

@@ -1,0 +1,1 @@
+#include <stdio.h>void main(void){int a,b;a = 0x3C3C;b = 0xAAAA;printf("%04X & %04X = %04X\n",   a, b, a&b);} 

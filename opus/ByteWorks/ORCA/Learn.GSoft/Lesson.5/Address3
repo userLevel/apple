@@ -1,0 +1,1 @@
+      LINE INPUT "Please type your city, state and zip code: ";ADDRESS2$      PRINT ADDRESS2$

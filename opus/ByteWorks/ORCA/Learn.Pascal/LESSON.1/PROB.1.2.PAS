@@ -1,0 +1,1 @@
+program Short;begin end.

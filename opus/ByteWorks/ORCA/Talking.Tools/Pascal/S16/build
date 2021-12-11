@@ -1,0 +1,1 @@
+compile +t +e -m ERROR.PAScompile +t +e -m GLOBALS.PAScompile +t +e -m MSCCMDS.PAScompile +t +e -m DICTCMDS.PAScompile +t +e -m FILECMDS.PAScompile +t +e -m SPEECHCMDS.PAScompile +t +e -m MAIN.PASlink main globals error msccmds dictcmds filecmds speechcmds keep=speakitfiletype speakit s16speakit
